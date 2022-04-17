@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hello World!
 
 <!---
 Lv-lifeng/Lv-lifeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

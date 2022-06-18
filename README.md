@@ -2,7 +2,8 @@
 
 
 
-[![GitHub stats](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true)
+[![GitHub stats](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true)](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide=stars)
+<!--- &hide=stars,commits,prs,issues,contribs --->
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lv-Lifeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --->

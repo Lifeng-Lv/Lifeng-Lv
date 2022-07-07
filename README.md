@@ -2,7 +2,7 @@
 
 
 
-[![GitHub stats](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide=stars&hide_title=true)](https://api.se7h.cn/api/python)
+[![GitHub stats](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide=stars&hide_title=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://api.se7h.cn/api/python)
 <!--- &hide=stars,commits,prs,issues,contribs --->
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lv-Lifeng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

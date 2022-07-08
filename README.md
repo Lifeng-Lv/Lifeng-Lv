@@ -14,7 +14,7 @@
 
 
 <div align="right">
-<img src=https://komarev.com/ghpvc/?username=Lv-Lifeng&color=orange&style=flat-square&label=PV />
+<img src=https://komarev.com/ghpvc/?username=Lv-Lifeng&color=orange&style=flat&label=PV />
 </div>
 
 

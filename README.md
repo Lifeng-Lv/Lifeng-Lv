@@ -1,4 +1,4 @@
-👋   Hello World!    	
+[![Typing SVG](https://lvlifeng.herokuapp.com?font=ShadowsIntoLight&size=14&pause=1000&color=0DAE2C&width=435&lines=%F0%9F%91%8B+Hello+World!)](https://git.io/typing-svg)
 
 [![](https://github.niyoubinga.cn/api?username=Lv-Lifeng&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide=stars&hide_title=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://api.se7h.cn/api/python)
   

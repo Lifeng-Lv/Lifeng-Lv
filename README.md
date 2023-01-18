@@ -7,7 +7,7 @@
   
 
 <!--- https://github.com/anuraghazra/github-readme-stats  --->
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lv-lifeng&layout=compact&count_private=true&hide_title=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,FFD700&theme=graywhite)]([https://github.com/anuraghazra/github-readme-stats](https://api.se7h.cn/api/python))
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lv-lifeng&layout=compact&count_private=true&hide_title=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,FFD700&theme=graywhite)](https://api.se7h.cn/api/python)
 
 
 

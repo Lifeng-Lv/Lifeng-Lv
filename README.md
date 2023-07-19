@@ -1,6 +1,6 @@
 <!--- https://git.io/typing-svg --->
 <!--- https://lvlifeng.herokuapp.com --->
-[![](https://readme-typing-svg.demolab.com?font=ShadowsIntoLight&size=13&pause=1000&color=F78F24&width=435&lines=%F0%9F%91%8B+it+is+Okey.)](https://api.givemesomeface.cc/api/python)
+[![](https://readme-typing-svg.demolab.com?font=ShadowsIntoLight&size=13&pause=1000&color=F78F24&width=800&lines=%F0%9F%91%8B+I+want+to+learn+everything,+but+I+can't+learn+anything.)](https://api.givemesomeface.cc/api/python)
 
 <!--- https://github.com/anuraghazra/github-readme-stats  --->
 [![](https://github-readme.givemesomeface.cc/api?username=itisokey&count_private=true&show_icons=true&theme=graywhite&hide_border=true&hide=stars&hide_title=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,FFD700&theme=graywhite)](https://api.givemesomeface.cc/api/python)
